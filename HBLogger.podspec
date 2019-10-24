@@ -23,6 +23,15 @@ s.homepage = "https://github.com/mehulmodihb/HBLogger"
 s.source = { :git => "https://github.com/mehulmodihb/HBLogger.git",
              :tag => "#{s.version}" }
 
+# 7
+s.framework = "UIKit"
+
+# 8
+s.source_files = ""
+
+# 9
+s.resources = ""
+
 # 10
 s.swift_version = "4.2"
 
